@@ -10,10 +10,17 @@
     border-color:#cccccc
     
 }
+
+
+
+hr {
+  width: 70%;
+  margin-left: -20%;
+}​
 #ft{
     color:#ffffff;
 }
-#color{
+h2{
     color:#4aaaa5;
 }
 a{
@@ -193,6 +200,7 @@ p{
 
 img{
     float: left;
+    margin-right:14px;
     
 }
 #att{
