@@ -56,8 +56,8 @@ p{
     border-width:90px;
     border-color:#dddddd;
     position:relative;
-    width:1152px;
-    height:350px;
+    max-width: 100%;
+    height:400px;
     background-color:white;
 }
 .wrapper1{
@@ -68,8 +68,8 @@ p{
     border-bottom:20px solid;
     border-color: #dddddd;
     position:relative;
-    width:550px;
-    height:500px;
+    max-width:100%;
+    height:550px;
     background-color: white;
 }
 .wrapper2{
@@ -80,8 +80,8 @@ p{
     border-bottom:100px solid;
     border-color: #dddddd;
     position:relative;
-    width:550px;
-    height:400px;
+    max-width:100%;
+    height:440px;
     background-color: white;
 
 }
@@ -240,14 +240,14 @@ img{
 #att{
     position: relative;
     top:17px;
-    width:1332px;
+    max-width:100%;
     height:4px;
     background-color: #4aaaa5;
 }
 #footer{
     top:1px;
     text-align: center;
-    width:1332px;
+    max-width: 100%;
     height:25px;
     position:relative;
     background-color: #666666;
